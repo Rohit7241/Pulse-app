@@ -1,0 +1,118 @@
+"articles": [
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Alex  Stambaugh",
+"title": "Ukraine ends supply of Russian gas to Europe - CNN",
+"description": "Ukraine says it has halted the transport of Russian gas to Europe through its territory, after a five-year transit deal expired Wednesday.",
+"url": "https://www.cnn.com/2025/01/01/business/ukraine-russia-gas-eu-halted-hnk-intl/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2015-05-28t120000z-1700453919-gf10000109828-rtrmadp-3-ukraine-crisis-gazprom.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2025-01-01T07:31:00Z",
+"content": "Ukraine says it has halted the transport of Russian gas to Europe through its territory, after a five-year transit deal expired Wednesday.\r\nThe closure of one of Russias oldest gas routes to the Euro… [+1558 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "John Towfighi",
+"title": "What to expect from stocks in 2025 - CNN",
+"description": "Stocks had a blockbuster 2023 and 2024. Will 2025 be a three-peat?",
+"url": "https://www.cnn.com/2025/01/01/investing/what-to-expect-from-stocks-in-2025/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-12-12t131615z-1344574951-rc2nnba5xvq6-rtrmadp-3-usa-trump.JPG?c=16x9&q=w_800,c_fill",
+"publishedAt": "2025-01-01T05:01:00Z",
+"content": "Stocks had a blockbuster 2023 and 2024. Will 2025 be athree-peat?\r\nAfter two years of substantial gains, Wall Street expects the good times for markets to keep going this year just not on the massive… [+5178 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "AL.com"
+},
+"author": "Leada Gore | lgore@al.com",
+"title": "New Year’s Day 2025: What’s open, what’s closed on Jan. 1? Walmart, Starbucks, banks, restaurants - AL.com",
+"description": "What's open and what's closed on New Year's Day 2025.",
+"url": "https://www.al.com/news/2024/12/new-years-day-2025-whats-open-whats-closed-on-jan-1-walmart-starbucks-banks-restaurants.html",
+"urlToImage": "https://www.al.com/resizer/v2/DG7UPAQZ3RAWZELGTNR24RTYIM.jpg?auth=d7a29986833b6f0ab4bc0c769d80f540216c5ea92700d569394e411379b8ab6a&width=1280&quality=90",
+"publishedAt": "2025-01-01T04:48:00Z",
+"content": null
+},
+{
+"source": {
+"id": "associated-press",
+"name": "Associated Press"
+},
+"author": "ANDREW DALTON",
+"title": "Blake Lively sues 'It Ends With Us' director Justin Baldoni alleging harassment and smear campaign - The Associated Press",
+"description": "Actor Blake Lively has sued the director of the film “It Ends With Us” alleging harassment on the set and a coordinated campaign to smear her reputation. The lawsuit was filed Tuesday, just hours after the director, Justin Baldoni, and several others tied to …",
+"url": "https://apnews.com/article/justin-baldoni-blake-lively-new-york-times-1aecaec0a51d8c45ea313a6f7dbff31b",
+"urlToImage": "https://dims.apnews.com/dims4/default/de14faa/2147483647/strip/true/crop/5147x2895+0+268/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2F26%2F043b50246dd5b52f111c144a9ed8%2Fcdfe8f73dc924bd2942c24c756fcfc41",
+"publishedAt": "2025-01-01T04:29:00Z",
+"content": "Actor Blake Lively sued It Ends With Us director Justin Baldoni and several others tied to the romantic drama on Tuesday, alleging harassment and a coordinated campaign to attack her reputation for c… [+5419 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Nick Bromberg",
+"title": "College Football Playoff: No. 6 Penn State moves on to semifinals with 31-14 Fiesta Bowl win over No. 3 Boise State - Yahoo Sports",
+"description": "The Nittany Lions are a win away from the national title game.",
+"url": "https://sports.yahoo.com/college-football-playoff-no-6-penn-state-moves-on-to-semifinals-with-31-14-fiesta-bowl-win-over-no-3-boise-state-041247374.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ve8nIQM4gxFzbIlWFXwC8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/8bb63810-c7f3-11ef-88f7-08603a47a18e",
+"publishedAt": "2025-01-01T04:25:00Z",
+"content": "Penn State's Tyler Warren went up for this TD catch in the second half of the Nittany Lions' Fiesta Bowl win over Boise State. (Photo by Christian Petersen/Getty Images)\r\nPenn State is a win away fro… [+4195 chars]"
+},
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": "Andrew Hay",
+"title": "Woman burned to death on New York subway identified - Reuters",
+"description": "The woman was identified through fingerprint analysis and her death was ruled a homicide.",
+"url": "https://www.reuters.com/world/us/woman-burned-death-new-york-subway-identified-2024-12-31/",
+"urlToImage": "https://www.reuters.com/resizer/v2/SJB7VK3LHRKTDMXTMFZ2TRPKKQ.jpg?auth=a0e8c1bc1fe51310b59ffbbcdbf5e139817d2875089f0fd2741164052646c401&height=1005&width=1920&quality=80&smart=true",
+"publishedAt": "2025-01-01T04:19:00Z",
+"content": null
+},
+{
+"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Justin Jouvenal",
+"title": "Chief Justice Roberts warns of threats to judges in year-end report - The Washington Post",
+"description": "Chief Justice John G. Roberts Jr. presented an annual year-end report on the state of the judiciary.",
+"url": "https://www.washingtonpost.com/politics/2024/12/31/supreme-court-report-year-end-john-roberts/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RPQ62B6YXSMLHRBPJXPMVCYKHQ_size-normalized.jpg&w=1440",
+"publishedAt": "2025-01-01T03:42:25Z",
+"content": "Supreme Court Chief Justice John G. Roberts Jr. on Tuesday warned that judges nationwide are under increasing threat from violence, intimidation, disinformation and officials threatening to defy lawf… [+239 chars]"
+},
+{
+"source": {
+"id": "politico",
+"name": "Politico"
+},
+"author": "Hailey Fuchs",
+"title": "Trump says he would make calls for Mike Johnson - POLITICO",
+"description": "The president-elect also plans to attend Jimmy Carter's funeral.",
+"url": "https://www.politico.com/news/2024/12/31/trump-mike-johnson-jimmy-carter-00196182",
+"urlToImage": "https://static.politico.com/41/48/f290ca254d179f8176a1ded55d16/trump-86796.jpg",
+"publishedAt": "2025-01-01T03:38:14Z",
+"content": "Melania Trump looks on as President-elect Donald Trump speaks to reporters before a New Year's Eve party at Mar-a-Lago, Tuesday, Dec. 31, 2024, in Palm Beach, Fla. | Evan Vucci/AP\r\nPresident-elect Do… [+1093 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "NBC New York"
+},
+"author": "NBC Staff",
+"title": "Where to watch the ball drop 2024: New Year's Eve countdown to 2025 - NBC New York",
+"description": "Thousands of people will pack into Times Square in New York City to watch the ball drop on New Year’s Eve. Fortunately, revelers don’t have to brave…",
+"url": "https://www.nbcnewyork.com/entertainment/holidays/where-to-watch-the-ball-drop-2024-new-years-eve-countdown-to-2025/6090743/",
+"urlToImage": "https://media.nbcnewyork.com/2024/12/nye2024.jpg?quality=85&strip=all&resize=1200%2C675",
+"publishedAt": "2025-01-01T03:13:38Z",
+"content": "Thousands of people will pack into Times Square in New York City to watch the ball drop on New Year's Eve. Fortunately, revelers don't have to brave the crowds in Manhattan to witness the iconic mome… [+1777 chars]"
+}]
